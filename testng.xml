@@ -5,6 +5,8 @@
         <classes>
             <class name="WelcomeScreenTest"/>
             <class name="SignUpScreenTest"/>
+            <class name="LogInWithEmailScreenTest"/>
+            <class name="LogInWithFacebookScreenTest"/>
         </classes>
     </test>
 </suite>

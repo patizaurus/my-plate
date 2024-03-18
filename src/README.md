@@ -22,7 +22,8 @@ Demo for mentor.
 
 4. Mentor review test framework codebase and provide feedback
 
- mvn test -Pfull
+ mvn clean test
+ allure serve allure-results
 
 
 //        DeviceRotation landscape = new DeviceRotation(0, 0, 90);
