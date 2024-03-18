@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4ce2514-1e06-4ba1-9c60-026aad4b38ae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dbAKBiDsRP922WAAISdbtHzMRP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="pageObjects" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.LogInWithFacebookScreenTest.logInWithFacebookPageIsCorrectlyDisplayed">
+    <configuration name="LogInWithEmailScreenTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyPlate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogInWithEmailScreenTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogInWithEmailScreenTest.logInWithEmailFormCanBeFilled" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyPlate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogInWithEmailScreenTest" />
+      <option name="METHOD_NAME" value="logInWithEmailFormCanBeFilled" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogInWithFacebookScreenTest.logInWithFacebookPageIsCorrectlyDisplayed" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyPlate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LogInWithFacebookScreenTest" />
+      <option name="METHOD_NAME" value="logInWithFacebookPageIsCorrectlyDisplayed" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpScreenTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyPlate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignUpScreenTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SignUpScreenTest.alreadyHaveAccountButtonCanBeSelected" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MyPlate" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SignUpScreenTest" />
+      <option name="METHOD_NAME" value="alreadyHaveAccountButtonCanBeSelected" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" nameIsGenerated="true">
+      <module name="MyPlate" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LogInWithFacebookScreenTest.logInWithFacebookPageIsCorrectlyDisplayed" />
+        <item itemvalue="TestNG.SignUpScreenTest" />
+        <item itemvalue="TestNG.SignUpScreenTest.alreadyHaveAccountButtonCanBeSelected" />
+        <item itemvalue="TestNG.LogInWithEmailScreenTest.logInWithEmailFormCanBeFilled" />
+        <item itemvalue="TestNG.LogInWithEmailScreenTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4ce2514-1e06-4ba1-9c60-026aad4b38ae" name="Default Changelist" comment="" />
+      <created>1710266337759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710266337759</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="88" key="#&lt;default&gt;" timestamp="1710700308990">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="393" y="88" key="#&lt;default&gt;/0.0.1440.900@0.0.1440.900" timestamp="1710700308990" />
+    <state x="393" y="88" key="#&lt;default&gt;_(1)" timestamp="1710700362798">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="393" y="88" key="#&lt;default&gt;_(1)/0.0.1440.900@0.0.1440.900" timestamp="1710700362798" />
+    <state x="184" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1710700641374">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1710700641374" />
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.804/1440.-301.2560.1369@0.25.1440.804" timestamp="1710367242588" />
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.804/1440.0.2560.1369@0.25.1440.804" timestamp="1710280457407" />
+    <state x="2388" y="15" key="#com.intellij.ide.util.MemberChooser" timestamp="1710796207936">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state x="533" y="170" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1710696684736" />
+    <state x="2388" y="15" key="#com.intellij.ide.util.MemberChooser/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710796207936" />
+    <state x="2945" y="-210" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1710789542834">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state x="2945" y="-210" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710789542834" />
+    <state width="1915" height="534" key="GridCell.Tab.0.bottom" timestamp="1710797262310">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-257.2560.1440@0.0.1440.900" timestamp="1710758707701" />
+    <state width="1398" height="320" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1710702556486" />
+    <state width="1915" height="534" key="GridCell.Tab.0.bottom/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710797262310" />
+    <state width="1398" height="240" key="GridCell.Tab.0.bottom/0.25.1440.804/1440.-301.2560.1369@0.25.1440.804" timestamp="1710369217896" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.25.1440.804/1440.0.2560.1369@0.25.1440.804" timestamp="1710282222176" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.25.1440.804/1440.0.2560.1369@1440.0.2560.1369" timestamp="1710280789125" />
+    <state width="1915" height="534" key="GridCell.Tab.0.center" timestamp="1710797262310">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900/1440.-257.2560.1440@0.0.1440.900" timestamp="1710758707698" />
+    <state width="1398" height="320" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1710702556485" />
+    <state width="1915" height="534" key="GridCell.Tab.0.center/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710797262310" />
+    <state width="1398" height="240" key="GridCell.Tab.0.center/0.25.1440.804/1440.-301.2560.1369@0.25.1440.804" timestamp="1710369217895" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.25.1440.804/1440.0.2560.1369@0.25.1440.804" timestamp="1710282222175" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.25.1440.804/1440.0.2560.1369@1440.0.2560.1369" timestamp="1710280789125" />
+    <state width="1915" height="534" key="GridCell.Tab.0.left" timestamp="1710797262309">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900/1440.-257.2560.1440@0.0.1440.900" timestamp="1710758707696" />
+    <state width="1398" height="320" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1710702556485" />
+    <state width="1915" height="534" key="GridCell.Tab.0.left/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710797262309" />
+    <state width="1398" height="240" key="GridCell.Tab.0.left/0.25.1440.804/1440.-301.2560.1369@0.25.1440.804" timestamp="1710369217895" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.25.1440.804/1440.0.2560.1369@0.25.1440.804" timestamp="1710282222174" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.25.1440.804/1440.0.2560.1369@1440.0.2560.1369" timestamp="1710280789124" />
+    <state width="1915" height="534" key="GridCell.Tab.0.right" timestamp="1710797262310">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900/1440.-257.2560.1440@0.0.1440.900" timestamp="1710758707699" />
+    <state width="1398" height="320" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1710702556486" />
+    <state width="1915" height="534" key="GridCell.Tab.0.right/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710797262310" />
+    <state width="1398" height="240" key="GridCell.Tab.0.right/0.25.1440.804/1440.-301.2560.1369@0.25.1440.804" timestamp="1710369217895" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.25.1440.804/1440.0.2560.1369@0.25.1440.804" timestamp="1710282222175" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.25.1440.804/1440.0.2560.1369@1440.0.2560.1369" timestamp="1710280789125" />
+    <state width="1215" height="303" key="GridCell.Tab.1.bottom" timestamp="1710794778873">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-257.2560.1440@0.0.1440.900" timestamp="1710758715930" />
+    <state width="1215" height="303" key="GridCell.Tab.1.bottom/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710794778873" />
+    <state width="1215" height="303" key="GridCell.Tab.1.center" timestamp="1710794778872">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900/1440.-257.2560.1440@0.0.1440.900" timestamp="1710758715929" />
+    <state width="1215" height="303" key="GridCell.Tab.1.center/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710794778872" />
+    <state width="1215" height="303" key="GridCell.Tab.1.left" timestamp="1710794778872">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900/1440.-257.2560.1440@0.0.1440.900" timestamp="1710758715927" />
+    <state width="1215" height="303" key="GridCell.Tab.1.left/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710794778872" />
+    <state width="1215" height="303" key="GridCell.Tab.1.right" timestamp="1710794778872">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900/1440.-257.2560.1440@0.0.1440.900" timestamp="1710758715929" />
+    <state width="1215" height="303" key="GridCell.Tab.1.right/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710794778872" />
+    <state x="280" y="164" key="SettingsEditor" timestamp="1710700951280">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="280" y="164" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1710700951280" />
+    <state x="1937" y="250" key="SettingsEditor/0.25.1440.804/1440.0.2560.1369@1440.0.2560.1369" timestamp="1710280612118" />
+    <state width="1064" height="1140" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1710784881220">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state width="1064" height="1140" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710784881220" />
+    <state x="397" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1710700972161">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="259" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1710700972161" />
+    <state x="397" y="256" key="com.intellij.ide.util.TipDialog/0.25.1440.804/1440.0.2560.1440@0.25.1440.804" timestamp="1710266348640" />
+    <state x="2124" y="-28" key="search.everywhere.popup" timestamp="1710796530842">
+      <screen x="1440" y="-257" width="2560" height="1440" />
+    </state>
+    <state x="2124" y="-28" key="search.everywhere.popup/0.25.1440.804/1440.-257.2560.1440@1440.-257.2560.1440" timestamp="1710796530842" />
+    <state x="385" y="153" key="search.everywhere.popup/0.25.1440.804/1440.0.2560.1369@0.25.1440.804" timestamp="1710279705852" />
+    <state x="385" y="153" key="search.everywhere.popup/0.25.1440.804@0.25.1440.804" timestamp="1710511896834" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/pageObjects/LogInWithFacebookPage.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyPlate$_Users_patrycjabrzezinska_IdeaProjects_MyPlate_testng_xml.ic" NAME="$PROJECT_DIR$/testng.xml Coverage Results" MODIFIED="1710701246375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
